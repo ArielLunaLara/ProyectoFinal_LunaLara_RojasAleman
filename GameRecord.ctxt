@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GameRecord
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GameRecords\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ GameRecords\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=playerName\ score
+comment2.target=GameRecord(java.lang.String,\ int)
+comment3.params=playerName
+comment3.target=void\ setPlayerName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPlayerName()
+comment5.params=score
+comment5.target=void\ setScore(int)
+comment6.params=
+comment6.target=int\ getScore()
+numComments=7

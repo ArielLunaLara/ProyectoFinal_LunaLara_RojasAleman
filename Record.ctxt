@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Record
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Record\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Record()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=java.lang.String[]\ getRecord()
+comment4.params=Record
+comment4.target=void\ setRecord(java.lang.String[])
+comment5.params=
+comment5.target=void\ readCSV()
+comment6.params=Record
+comment6.target=void\ writeCSV(java.lang.String[])
+numComments=7
